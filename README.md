@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋🏻🧑🏻! I'm a fullstack developer currently working in [__Jabusoft__](https://jabusoft.info/). 
 
-<!--
-**FavioSauto/FavioSauto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I like
+I'm a huge fan of gaining and sharing knowledge 📚🧠, even though my main focus is web development, I've gained knowledge in other fields like: marketing 🖋, UX and UI design ✒, data science 📊 and business management 💼
 
-Here are some ideas to get you started:
+## My values and opinions
+🧾 Learn something everyday
+🤝🏻Help, help, help and then help some more
+✔ Done it's better than perfect
+👀 Show, don't tell
+🔑 The key is on the details
+🚶🏻‍♂️ All big journeys start with a single, small, step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I work
+I solve things through a complete analysis and understanding 🔬of the problems.
+
+And I work best when I know the global goal 🎯 of an organization.
+
+## Get in touch
+Twitter: @FavioSauto
+LinkedIn: in/FavioSauto
