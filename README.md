@@ -1,4 +1,4 @@
-Hi 👋🏻🧑🏻! I'm a fullstack developer currently working in [__Jabusoft__](https://jabusoft.info/). 
+### Hi 👋🏻🧑🏻! I'm a fullstack developer currently working in [__Jabusoft__](https://jabusoft.info/). 
 
 ## What I like
 I'm a huge fan of gaining and sharing knowledge 📚🧠, even though my main focus is web development, I've gained knowledge in other fields like: marketing 🖋, UX and UI design ✒, data science 📊 and business management 💼
