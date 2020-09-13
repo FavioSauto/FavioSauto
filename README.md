@@ -17,5 +17,5 @@ I solve things through a complete analysis and understanding 🔬of the problems
 And I work best when I know the global goal 🎯 of an organization.
 
 ## Get in touch
-Twitter: @FavioSauto
-LinkedIn: in/FavioSauto
+- Twitter: @FavioSauto
+- LinkedIn: in/FavioSauto
