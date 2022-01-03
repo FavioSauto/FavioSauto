@@ -1,18 +1,17 @@
 ### Hi 👋🏻🧑🏻! I'm a Software Engineer. 
 
 ## What I like
-I'm a huge fan of gaining and sharing knowledge 📚🧠, even though my main focus is web development, I've gained knowledge in other fields like: marketing 🖋, UX and UI design ✒, data science 📊 and business management 💼
+I'm a huge fan of gaining and sharing knowledge 📚🧠, my main focus and expertise is software and web development, and in my little free time I learn about other fields I like, e.g., marketing 🖋, UX and UI design ✒, data science 📊 and business management 💼.
 
 ## My values and opinions
-- 🧾 Learn something everyday
+- 🧾Learn something everyday
 - 🤝🏻Help, help, help and then help some more
 - ✔ Done it's better than perfect
-- 👀 Show, don't tell
 - 🔑 The key is on the details
 - 🚶🏻‍♂️ All big journeys start with a single, small, step
 
 ## How I work
-I solve things through a complete analysis and understanding 🔬of the problems.
+I solve things through a complete analysis and understanding of the problem 🔍🔬.
 
 And I work best when I know the global goal 🎯 of an organization.
 
