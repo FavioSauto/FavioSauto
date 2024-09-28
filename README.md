@@ -1,17 +1,13 @@
-# Welcome!
+I’m Favio, a Software Developer with over four years of hands-on experience in JavaScript full-stack development. My expertise lies in crafting responsive, scalable, and high-performance web applications. From startups to SaaS platforms and eCommerce solutions, I have delivered successful projects involving internationalization (i18n) and localization (l10n).
 
-I'm Favio 🙋🏻‍♂️, a Senior Front-end Engineer with over four years of experience dedicated to building exceptional web applications.
+I have a solid foundation in both frontend and backend development, working extensively with JavaScript, TypeScript, Node.js, and SQL (PostgreSQL) databases. My approach incorporates best practices such as object-oriented programming (OOP), design patterns, and performance optimization. On the frontend, I am proficient in HTML, CSS, and React. I also leverage advanced state management tools like Zustand, RxJS, and Redux to create maintainable and efficient applications.
 
-My primary tools are ReactJS, NextJS, and TypeScript.
+My experience extends to API development, where I’ve worked with both REST and GraphQL. Additionally, I work with AWS services like S3, EC2, and ECS. I have integrated CI/CD pipelines with GitHub Actions to ensure smooth deployments and continuous integration, using tools like webpack, husky, prettier, and eslint to improve development productivity.
 
-I have a track record of enhancing customer retention and user engagement. One of my notable achievements was at Unosquare, where I developed a feature that dramatically reduced the completion time of a recurring task from an hour to just five minutes ⏱️.
+Throughout my career, I have collaborated with dynamic, cross-functional, remote teams worldwide and contributed to startups and SaaS companies. Whether it’s optimizing performance, implementing cutting-edge features, or ensuring smooth deployments, I always prioritize creating meaningful and measurable outcomes.
 
-Though I've been actively coding and delivering impactful functionalities throughout my career 💪🏻, my current GitHub repository doesn't showcase the full scope of my expertise 🥲. Much of my significant work is embedded within private company codebases and isn't publicly accessible. However, my skills and breadth of experience are evident from my professional accomplishments and work history 🏆.
+If you’re looking for a full-stack developer with a keen eye for detail, a passion for React and modern web technologies, and a proven track record of impactful contributions, I’d love to connect and explore how my expertise can bring value to your next project.
 
-I possess proficiency in various full-stack technical tools 🛠️ and languages, including SQL, Node.js, and Python. My collaborative skills shine through in roles where I mentored five new developers at Encora and led an internal community of over 25 members at Unosquare.
+Let’s connect to discuss how we can collaborate!
 
-I've integrated generative AI 🤖 into my development approach, always prioritizing security and privacy 🔐. Leveraging advanced tools like zero-shot prompting and chain-of-thought prompting, I've been able to produce high-quality code more efficiently. As a committed lifelong learner 🎓, I continuously update my knowledge with the latest industry trends to hone my skills.
-
-If you're in search of a senior front-end engineer adept in ReactJS, NextJS, and TypeScript, I offer a track record of significant contributions. I'm keen to explore how my expertise can drive growth for your projects 📈. Let's connect 🤝 and discuss potential synergies for your upcoming initiatives!
-
-Drop me an email 📧 at: faviosauto@gmail.com
+📧: faviosauto@gmail.com
