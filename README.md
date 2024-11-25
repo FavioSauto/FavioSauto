@@ -1,3 +1,3 @@
-I like building stuff with javascript
+I like solving business problems with the help of software
 
 📧: faviosauto@gmail.com
